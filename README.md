@@ -4,5 +4,5 @@ A Machine learning project using metaheuristics to optimize the combination of c
 
 ## Overview
 
-The purpose of this project is try to improve the accuracy of Heterogeneus Pooling implemented [here](https://github.com/PedroAngeli/Classification-models). The metaheuristics used were: Hill Climbing, Simulated Annealing e Genetic Algorithm.
+The purpose of this project is try to improve the accuracy of Heterogeneous Pooling implemented [here](https://github.com/PedroAngeli/Classification-models). The metaheuristics used were: Hill Climbing, Simulated Annealing e Genetic Algorithm.
 
